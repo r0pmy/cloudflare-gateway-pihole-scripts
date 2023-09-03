@@ -7,7 +7,7 @@ touch whitelist.csv
 
 # declare an array of urls
 urls=(
-
+    https://raw.githubusercontent.com/nextdns/click-tracking-domains/main/domains
     # Commented out because it looks suspicious
     # https://www.aadvantageeshopping.com/adBlockWhitelist.php
     # Commented out because it whitelists sites including doubleclick.net and ad.atdmt.com
